@@ -1,7 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Issue"
 ---
-Your text
-Hi
-Use the left arrow to go back!
+"Issues sind dazu da, um auf Fehler aufmerksam zu machen."
